@@ -12,7 +12,7 @@ driver.get('https://www.caasdata.com/')
 # driver.find_element_by_xpath('//*[@name="email"]').send_keys('123')
 # # //*[@id="auto-id-1548320022443"]
 token = {'domain':'.caasdata.com','expiry':'2019-02-16T15:47:51.000Z','httpOnly':'False','name':'token','path':'/',
-         'secure':'False','value':'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwaS5kYXRhLmNhYXNkYXRhLmNvbS9hdXRoIiwiaWF0IjoxNTQ3NjUzNjcxLCJleHAiOjE1NTAyNDU2NzEsIm5iZiI6MTU0NzY1MzY3MSwianRpIjoialJTSTAwM1BySUhLNTJkMCIsInN1YiI6IjQ4OTg4IiwiTG9naW5Ub2tlbiI6IloweHl1NUhjTTJZVWQifQ.EpzoxWHklOtya8eaW8Ta4dd6E6NNREMdZGk9J4el1Rc'}
+         'secure':'False','value':''}
 driver.add_cookie(token)
 time.sleep(2)
 driver.refresh()
