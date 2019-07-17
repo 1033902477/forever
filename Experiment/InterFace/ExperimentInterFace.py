@@ -10,8 +10,4 @@ class InterFaceFirst():
 
 
 if __name__ == '__main__':
-    method = 'POST'
-    path = 'kol/task'
-    data = ""
-    a = InterFaceFirst().get_hot_video(method, path, data)
-    print(a)
+    print('123')

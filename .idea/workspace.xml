@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eee0eee1-a277-44fe-bfb1-616e34eee39c" name="Default" comment="" />
+    <list default="true" id="eee0eee1-a277-44fe-bfb1-616e34eee39c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Experiment/InterFace/ExperimentInterFace.py" beforeDir="false" afterPath="$PROJECT_DIR$/Experiment/InterFace/ExperimentInterFace.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,10 +13,43 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Experiment/Common/Headers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Experiment/CaseFile/TestCasePath.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Experiment/DataProcess/OperationData.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Experiment/Common/ResquestMethod.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="24" column="66" selection-start-line="24" selection-start-column="66" selection-end-line="24" selection-end-column="66" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -37,7 +72,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common/Algorithm/getExeclData.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -46,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Experiment/InterFace/ExperimentInterFace.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="180">
+              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -99,13 +134,13 @@
         <option value="$PROJECT_DIR$/Experiment/DataProcess/OperationData.py" />
         <option value="$PROJECT_DIR$/Experiment/Log/LogLog.py" />
         <option value="$PROJECT_DIR$/Experiment/Common/ResquestMethod.py" />
-        <option value="$PROJECT_DIR$/Experiment/InterFace/ExperimentInterFace.py" />
         <option value="$PROJECT_DIR$/common/DatabaseConnection/db.py" />
         <option value="$PROJECT_DIR$/Experiment/CaseFile/TestCasePath.py" />
         <option value="$PROJECT_DIR$/Experiment/Common/GetCaseData.py" />
         <option value="$PROJECT_DIR$/UiAutoTest/crossLogin.py" />
         <option value="$PROJECT_DIR$/UiAutoTest/learnSelenium.py" />
         <option value="$PROJECT_DIR$/Experiment/Common/Headers.py" />
+        <option value="$PROJECT_DIR$/Experiment/InterFace/ExperimentInterFace.py" />
       </list>
     </option>
   </component>
@@ -143,6 +178,23 @@
             <path>
               <item name="forever" type="b2602c69:ProjectViewProjectNode" />
               <item name="forever" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="forever" type="b2602c69:ProjectViewProjectNode" />
+              <item name="forever" type="462c0819:PsiDirectoryNode" />
+              <item name="Experiment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="forever" type="b2602c69:ProjectViewProjectNode" />
+              <item name="forever" type="462c0819:PsiDirectoryNode" />
+              <item name="Experiment" type="462c0819:PsiDirectoryNode" />
+              <item name="CaseFile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="forever" type="b2602c69:ProjectViewProjectNode" />
+              <item name="forever" type="462c0819:PsiDirectoryNode" />
+              <item name="Experiment" type="462c0819:PsiDirectoryNode" />
+              <item name="InterFace" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -341,6 +393,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="679" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19256505" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -524,47 +577,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Experiment/Common/Headers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Experiment/Common/ResquestMethod.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="66" selection-start-line="24" selection-start-column="66" selection-end-line="24" selection-end-column="66" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Experiment/DataProcess/OperationData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Experiment/InterFace/ExperimentInterFace.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Experiment/Common/GetCaseData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GrabShell/KuGouMusic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -624,6 +636,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="41" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Experiment/Common/ResquestMethod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="66" selection-start-line="24" selection-start-column="66" selection-end-line="24" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Experiment/Common/Headers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Experiment/Common/GetCaseData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Experiment/DataProcess/OperationData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Experiment/InterFace/ExperimentInterFace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>
