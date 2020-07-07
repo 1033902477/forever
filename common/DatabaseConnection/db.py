@@ -1,8 +1,8 @@
 import pymysql
 
 # 数据库连接的时候可以调用公共类方法进行连接
-class db():
-    def DbConnection(self):
+class Db():
+    def db(self):
         db = pymysql.connect(host='localhost', user='root', password='', port=3306, db='test', charset='utf8')
 
         return db
