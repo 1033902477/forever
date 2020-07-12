@@ -2,8 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eee0eee1-a277-44fe-bfb1-616e34eee39c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Common/Headers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/LogLog.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Experiment/InterFace/ExperimentInterFace.py" beforeDir="false" afterPath="$PROJECT_DIR$/Experiment/InterFace/ExperimentInterFace.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiment/CaseFile/TestCasePath.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data/TestCasePath.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiment/Common/GetCaseData.py" beforeDir="false" afterPath="$PROJECT_DIR$/Common/GetCaseData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiment/Common/Headers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiment/Common/ResquestMethod.py" beforeDir="false" afterPath="$PROJECT_DIR$/Common/ResquestMethod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiment/Common/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiment/DataProcess/OperationData.py" beforeDir="false" afterPath="$PROJECT_DIR$/Common/OperationData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiment/DataProcess/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiment/InterFace/ExperimentInterFace.py" beforeDir="false" afterPath="$PROJECT_DIR$/InterFace/ExperimentInterFace.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiment/InterFace/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiment/Log/LogLog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiment/Log/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiment/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiment/start_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrabShell/Headers/HeaderBrower.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrabShell/Headers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrabShell/KuGouMusic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrabShell/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/REDAME" beforeDir="false" afterPath="$PROJECT_DIR$/REDAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/Algorithm/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/Algorithm/getExeclData.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/DatabaseConnection/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/DatabaseConnection/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/Common/db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lianxi/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lianxi/lianxi.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,28 +40,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Experiment/Common/Headers.py">
+        <entry file="file://$PROJECT_DIR$/Common/Headers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="193">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Experiment/CaseFile/TestCasePath.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Data/TestCasePath.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Experiment/DataProcess/OperationData.py">
+        <entry file="file://$PROJECT_DIR$/Common/OperationData.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            <state relative-caret-position="43">
+              <caret line="29" column="39" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="39" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
@@ -44,10 +66,43 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Experiment/Common/ResquestMethod.py">
+        <entry file="file://$PROJECT_DIR$/TestCase/test_01/test_check_api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="24" column="66" selection-start-line="24" selection-start-column="66" selection-end-line="24" selection-end-column="66" />
+            <state relative-caret-position="110">
+              <caret line="13" column="59" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestCase/conftest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Common/ResquestMethod.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-246">
+              <caret line="14" column="42" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="42" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -56,46 +111,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GrabShell/KuGouMusic.py">
+        <entry file="file://$PROJECT_DIR$/REDAME">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+            <state relative-caret-position="135">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GrabShell/Headers/HeaderBrower.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/Algorithm/getExeclData.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="41" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Experiment/InterFace/ExperimentInterFace.py">
+        <entry file="file://$PROJECT_DIR$/InterFace/ExperimentInterFace.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Experiment/Common/GetCaseData.py">
+        <entry file="file://$PROJECT_DIR$/Common/GetCaseData.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+            <state relative-caret-position="200">
+              <caret line="44" column="56" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="56" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -114,6 +154,7 @@
       <find>excel</find>
       <find>to_e</find>
       <find>index</find>
+      <find>precondition</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -133,19 +174,33 @@
         <option value="$PROJECT_DIR$/lianxi/lianxi.py" />
         <option value="$PROJECT_DIR$/Experiment/start_test.py" />
         <option value="$PROJECT_DIR$/Experiment/DataProcess/OperationData.py" />
-        <option value="$PROJECT_DIR$/Experiment/Log/LogLog.py" />
-        <option value="$PROJECT_DIR$/Experiment/Common/ResquestMethod.py" />
-        <option value="$PROJECT_DIR$/common/DatabaseConnection/db.py" />
         <option value="$PROJECT_DIR$/Experiment/CaseFile/TestCasePath.py" />
         <option value="$PROJECT_DIR$/Experiment/Common/GetCaseData.py" />
         <option value="$PROJECT_DIR$/UiAutoTest/crossLogin.py" />
         <option value="$PROJECT_DIR$/UiAutoTest/learnSelenium.py" />
-        <option value="$PROJECT_DIR$/Experiment/Common/Headers.py" />
         <option value="$PROJECT_DIR$/Experiment/InterFace/ExperimentInterFace.py" />
+        <option value="$PROJECT_DIR$/common/DatabaseConnection/db.py" />
+        <option value="$PROJECT_DIR$/Experiment/Common/ResquestMethod.py" />
+        <option value="$PROJECT_DIR$/Experiment/Common/Headers.py" />
+        <option value="$PROJECT_DIR$/common/FilePath.py" />
+        <option value="$PROJECT_DIR$/Experiment/Log/LogLog.py" />
+        <option value="$PROJECT_DIR$/Common/E_Mail.py" />
+        <option value="$PROJECT_DIR$/Common/EMail.py" />
+        <option value="$PROJECT_DIR$/Common/FilePath.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/Common/Headers.py" />
+        <option value="$PROJECT_DIR$/Common/LogLog.py" />
+        <option value="$PROJECT_DIR$/REDAME" />
+        <option value="$PROJECT_DIR$/Common/ResquestMethod.py" />
+        <option value="$PROJECT_DIR$/Data/TestCasePath.py" />
+        <option value="$PROJECT_DIR$/Common/GetCaseData.py" />
+        <option value="$PROJECT_DIR$/Common/OperationData.py" />
+        <option value="$PROJECT_DIR$/TestCase/test_01/test_check_api.py" />
+        <option value="$PROJECT_DIR$/TestCase/conftest.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1366" />
     <option name="height" value="679" />
@@ -172,6 +227,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,33 +238,31 @@
             <path>
               <item name="forever" type="b2602c69:ProjectViewProjectNode" />
               <item name="forever" type="462c0819:PsiDirectoryNode" />
-              <item name="Experiment" type="462c0819:PsiDirectoryNode" />
+              <item name="OutPut" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="forever" type="b2602c69:ProjectViewProjectNode" />
               <item name="forever" type="462c0819:PsiDirectoryNode" />
-              <item name="Experiment" type="462c0819:PsiDirectoryNode" />
-              <item name="CaseFile" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="forever" type="b2602c69:ProjectViewProjectNode" />
-              <item name="forever" type="462c0819:PsiDirectoryNode" />
-              <item name="Experiment" type="462c0819:PsiDirectoryNode" />
-              <item name="InterFace" type="462c0819:PsiDirectoryNode" />
+              <item name="OutPut" type="462c0819:PsiDirectoryNode" />
+              <item name="Report" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Common" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Experiment" />
+      <recent name="$PROJECT_DIR$/Data" />
       <recent name="$PROJECT_DIR$/Experiment/InterFace" />
     </key>
   </component>
@@ -224,28 +278,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.start_test">
-    <configuration name="ExperimentInterFace" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="forever" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiment" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiment/InterFace/ExperimentInterFace.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.main">
     <configuration name="GetCaseData" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="forever" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -254,11 +287,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiment/Common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Common" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiment/Common/GetCaseData.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Common/GetCaseData.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,7 +300,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="KuGouMusic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="OperationData" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="forever" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,11 +308,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GrabShell" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Common" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GrabShell/KuGouMusic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Common/OperationData.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,7 +321,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lianxi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ResquestMethod" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="forever" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -296,11 +329,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lianxi" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Common" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lianxi/lianxi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Common/ResquestMethod.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -309,7 +342,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="start_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="forever" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -317,11 +350,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiment" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiment/start_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_check_api" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="forever" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase/test_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestCase/test_01/test_check_api.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -331,19 +385,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ExperimentInterFace" />
       <item itemvalue="Python.GetCaseData" />
-      <item itemvalue="Python.KuGouMusic" />
-      <item itemvalue="Python.lianxi" />
-      <item itemvalue="Python.start_test" />
+      <item itemvalue="Python.ResquestMethod" />
+      <item itemvalue="Python.OperationData" />
+      <item itemvalue="Python.test_check_api" />
+      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.start_test" />
-        <item itemvalue="Python.ExperimentInterFace" />
-        <item itemvalue="Python.lianxi" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.test_check_api" />
+        <item itemvalue="Python.OperationData" />
+        <item itemvalue="Python.ResquestMethod" />
         <item itemvalue="Python.GetCaseData" />
-        <item itemvalue="Python.KuGouMusic" />
       </list>
     </recent_temporary>
   </component>
@@ -400,7 +454,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3270869" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49962825" weight="0.34412265" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49962825" visible="true" weight="0.34412265" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39863715" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -553,74 +607,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Experiment/DataProcess/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lianxi/lianxi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Experiment/start_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Experiment/Log/LogLog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UiAutoTest/learnSelenium.py" />
     <entry file="file://$PROJECT_DIR$/UiAutoTest/crossLogin.py" />
     <entry file="file://$PROJECT_DIR$/DataAnalysis/day001.py" />
-    <entry file="file://$PROJECT_DIR$/common/DatabaseConnection/db.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Experiment/Common/Headers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Experiment/CaseFile/TestCasePath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Experiment/DataProcess/OperationData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Experiment/Common/ResquestMethod.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="66" selection-start-line="24" selection-start-column="66" selection-end-line="24" selection-end-column="66" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GrabShell/KuGouMusic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -635,24 +624,144 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/Algorithm/getExeclData.py">
+    <entry file="file://$PROJECT_DIR$/Common/db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianxi/lianxi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Experiment/DataProcess/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Experiment/Common/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/ReadExcel/getExeclData.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="41" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Experiment/Common/GetCaseData.py">
+    <entry file="file://$PROJECT_DIR$/Common/EMail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        <state relative-caret-position="140">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Experiment/InterFace/ExperimentInterFace.py">
+    <entry file="file://$PROJECT_DIR$/Common/FilePath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/LogLog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/REDAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/Headers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OutPut/LogLog/log.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterFace/ExperimentInterFace.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/TestCasePath.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/GetCaseData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="44" column="56" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/ResquestMethod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-246">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/OperationData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="29" column="39" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/test_01/test_check_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="13" column="59" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
